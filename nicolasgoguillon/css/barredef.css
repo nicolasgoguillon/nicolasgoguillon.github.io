@@ -7,6 +7,6 @@ body::-webkit-scrollbar {
   }
   
   body::-webkit-scrollbar-thumb {
-    background-color: #313D39; /* color of the scroll thumb */
-    border: 3px solid #313D39; /* creates padding around scroll thumb */
+    background-color: #293133; /* color of the scroll thumb */
+    border: 3px solid #293133; /* creates padding around scroll thumb */
   }
