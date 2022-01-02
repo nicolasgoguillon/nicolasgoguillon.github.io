@@ -105,3 +105,20 @@ iframe{
     margin-left: auto;
     margin-right: auto;
 }
+
+
+.fondbleu{
+    background-color: #22427C !important;
+}
+
+.fondgris{
+    background-color:#293133 !important;
+}
+
+.menuhover:hover{
+    color:#22427C !important;
+}
+
+.portfoliotuiles:hover{
+    color:#22427C !important;
+}
