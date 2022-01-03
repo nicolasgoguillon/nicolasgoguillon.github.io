@@ -76,9 +76,7 @@
   display: none;
 }
 
-.pdf:hover span:first-child {
-  display: inline-block;
-}
+
 
 .pdf2:hover span:last-child {
   display: none;
