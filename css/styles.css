@@ -3945,7 +3945,7 @@ textarea.form-control-lg {
 .nav-link {
   display: block;
   padding: 0.5rem 1rem;
-  color: lightblue;
+  color: #22427C;
   text-decoration: none;
   transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out, border-color 0.15s ease-in-out;
 }
@@ -3955,7 +3955,7 @@ textarea.form-control-lg {
   }
 }
 .nav-link:hover, .nav-link:focus {
-  color: lightblue;
+  color: #22427C;
 }
 .nav-link.disabled {
   color: #6c757d;
@@ -4002,7 +4002,7 @@ textarea.form-control-lg {
 .nav-pills .nav-link.active,
 .nav-pills .show > .nav-link {
   color: #fff;
-  background-color: lightblue;
+  background-color: #22427C;
 }
 
 .nav-fill > .nav-link,
@@ -11371,13 +11371,13 @@ html {
   color: #fff;
 }
 #mainNav .navbar-nav li.nav-item a.nav-link:hover {
-  color: lightblue;
+  color: #22427C;
 }
 #mainNav .navbar-nav li.nav-item a.nav-link:active, #mainNav .navbar-nav li.nav-item a.nav-link:focus {
   color: #fff;
 }
 #mainNav .navbar-nav li.nav-item a.nav-link.active {
-  color: lightblue;
+  color: #22427C;
 }
 #mainNav .navbar-toggler {
   font-size: 80%;
@@ -11403,7 +11403,7 @@ html {
   }
   #mainNav .navbar-nav > li.nav-item > a.nav-link.active:active, #mainNav .navbar-nav > li.nav-item > a.nav-link.active:focus, #mainNav .navbar-nav > li.nav-item > a.nav-link.active:hover {
     color: #fff;
-    background: lightblue;
+    background: #22427C;
   }
 
   #mainNav.navbar-shrink {
