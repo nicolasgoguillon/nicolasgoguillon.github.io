@@ -109,6 +109,7 @@ iframe{
 
 .fondbleu{
     background-color: #22427C !important;
+    background-image: linear-gradient(to bottom right, rgb(27, 7, 202), rgb(171, 5, 243)) !important;
 }
 
 .fondgris{
@@ -116,11 +117,15 @@ iframe{
 }
 
 .menuhover:hover{
-    color:lightblue !important;
+    color:rgb(171, 5, 243) !important;
+}
+
+.menuhover::selection{
+    color:rgb(27, 7, 202) !important;
 }
 
 .portfoliotuiles:hover{
-    color:#22427C !important;
+    color:rgb(27, 7, 202) !important;
 }
 
 .bleuclair{

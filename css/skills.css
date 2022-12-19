@@ -11,7 +11,7 @@
 
 .skills{border-radius: 10px;}
 
-.web {width: 90%; background-color: #22427C;height: 100%;}
-.sql {width: 80%; background-color: lightblue;height: 15px;}
-.scripts {width: 70%; background-color: #22427C;height: 15px;}
-.php {width: 60%; background-color: lightblue;height: 15px;}
+.web {width: 90%; background-color: rgb(27, 7, 202);height: 100%;}
+.sql {width: 80%; background-color: rgb(171, 5, 243);height: 15px;}
+.scripts {width: 70%; background-color: rgb(27, 7, 202);height: 15px;}
+.php {width: 60%; background-color: rgb(171, 5, 243);height: 15px;}
